@@ -1,4 +1,4 @@
-romajitable = {
+var romajiTable = {
   // romaji sequences will be taken from this table and put into what effectively
   // acts as a hash-map, and the longest substring that has a kana equivalent
   // will be used.

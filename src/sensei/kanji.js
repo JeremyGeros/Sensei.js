@@ -1,4 +1,4 @@
-kanji = {
+var kanji = {
   "a": "亜",
   "ai": "哀挨愛曖相藍",
   "awa-re": "哀",
