@@ -24,7 +24,9 @@
   "devDependencies": {
     "mocha": "1.x",
     "expect.js": "0.3.1",
-    "grunt-contrib-uglify": "x"
+    "grunt-contrib-uglify": "x",
+    "grunt-mocha-test": "x",
+    "grunt-contrib-watch": "x"
   },
   "homepage": "https://github.com/JeremyGeros/Sensei.js"
 }
