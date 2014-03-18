@@ -27,7 +27,7 @@
     "grunt-contrib-uglify": "x",
     "grunt-mocha-test": "x",
     "grunt-contrib-watch": "x",
-    "grunt": "~0.3.14"
+    "grunt": "x"
   },
   "homepage": "https://github.com/JeremyGeros/Sensei.js"
 }
