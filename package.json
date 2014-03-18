@@ -4,7 +4,7 @@
   "description": "Convert between the romaji and kanji/hirgana or katakana.",
   "main": "src/sensei.js",
   "scripts": {
-    "test": "mocha"
+    "test": "grunt test --verbose"
   },
   "repository": {
     "type": "git",
@@ -26,7 +26,8 @@
     "expect.js": "0.3.1",
     "grunt-contrib-uglify": "x",
     "grunt-mocha-test": "x",
-    "grunt-contrib-watch": "x"
+    "grunt-contrib-watch": "x",
+    "grunt": "~0.3.14"
   },
   "homepage": "https://github.com/JeremyGeros/Sensei.js"
 }
