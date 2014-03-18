@@ -18,3 +18,16 @@ Also includes a helper method to pass a string of the alphabet to be used
 Sensei.convert('hiragana', 'ki');
 => "き"
 ```
+
+Tests
+=====
+Run the mocha tests using grunt
+```
+grunt test
+
+```
+or use ```grunt watch``` to run the tests continuously
+
+Dist
+====
+Use grunt 
