@@ -1,6 +1,7 @@
 Sensei.js
 =========
 
+
 Convert between the romaji and kanji/hirgana or katakana. Use these methods
 ```
 Sensei.kanji('ki');
