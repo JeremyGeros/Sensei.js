@@ -1,0 +1,30 @@
+{
+  "name": "sensei.js",
+  "version": "0.0.1",
+  "description": "Convert between the romaji and kanji/hirgana or katakana.",
+  "main": "src/sensei.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JeremyGeros/Sensei.js.git"
+  },
+  "keywords": [
+    "kanji",
+    "hiragana",
+    "japanese"
+  ],
+  "author": "Jeremy Geros",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeremyGeros/Sensei.js/issues"
+  },
+
+  "devDependencies": {
+    "mocha": "1.x",
+    "expect.js": "0.3.1",
+    "grunt-contrib-uglify": "x"
+  },
+  "homepage": "https://github.com/JeremyGeros/Sensei.js"
+}
