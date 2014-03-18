@@ -1,4 +1,4 @@
-Sensei.js
+Sensei.js [![Build Status](https://travis-ci.org/JeremyGeros/Sensei.js.png?branch=master)](https://travis-ci.org/JeremyGeros/Sensei.js)
 =========
 
 
